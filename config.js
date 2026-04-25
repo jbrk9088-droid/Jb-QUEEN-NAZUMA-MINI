@@ -9,7 +9,7 @@ global.pairing_code = true;
 global.number_bot = "";
 global.prefa = ".";
 global.msgglobal =
-  "[QUEEN NAZUMA MINI] Welcome to the best WhatsApp bot experience!";
+  "[JB QUEEN NAZUMA MINI] Welcome to the best WhatsApp bot experience!";
 globalThis.dev = "☄️ JB CODEX - Queen Nazuma Mini Developer";
 
 global.api = {
@@ -23,8 +23,8 @@ global.bot = {
   api: "https://nexevo.onrender.com",
   web: "https://nexevo.onrender.com",
   photo: "https://files.catbox.moe/9jbw55.jpg",
-  group: "https://chat.whatsapp.com/Gyt9bKWCwJlHuXwNfqQkhq?mode=gi_t",
-      channel: "https://whatsapp.com/channel/0029VbCHFQTAYlUJU7q3Vt2x",
+  group: "https://chat.whatsapp.com/HMUpOpe79L15sdRaW8KvQd?mode=gi_t",
+      channel: "https://whatsapp.com/channel/0029Vb69yTi5PO0rX16dFQ1L",
   newsletter: "120363407904372384",
   github: "https://github.com/ayancodex503/QUEEN-NAZUMA-MINI",
 };
