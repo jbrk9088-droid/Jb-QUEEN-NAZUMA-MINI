@@ -1,7 +1,7 @@
 {
-  "name": "queen-nazuma-mini",
+  "name": "JB queen-nazuma-mini",
   "version": "1.0.0",
-  "description": "QUEEN NAZUMA MINI - Advanced WhatsApp Bot with Interactive Buttons",
+  "description": "JB QUEEN NAZUMA MINI - Advanced WhatsApp Bot with Interactive Buttons",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -17,7 +17,7 @@
     "ayancodex",
     "interactive-buttons"
   ],
-  "author": "AYAN CODEX",
+  "author": "jb CODEX",
   "license": "MIT",
   "engines": {
     "node": ">=21.7.3",
