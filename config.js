@@ -10,7 +10,7 @@ global.number_bot = "";
 global.prefa = ".";
 global.msgglobal =
   "[QUEEN NAZUMA MINI] Welcome to the best WhatsApp bot experience!";
-globalThis.dev = "☄️ AYAN CODEX - Queen Nazuma Mini Developer";
+globalThis.dev = "☄️ JB CODEX - Queen Nazuma Mini Developer";
 
 global.api = {
   url: "https://nex-magical.vercel.app",
@@ -19,7 +19,7 @@ global.api = {
 };
 
 global.bot = {
-  name: "QUEEN NAZUMA MINI",
+  name: "JB QUEEN NAZUMA MINI",
   api: "https://nexevo.onrender.com",
   web: "https://nexevo.onrender.com",
   photo: "https://files.catbox.moe/9jbw55.jpg",
